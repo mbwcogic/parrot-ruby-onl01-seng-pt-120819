@@ -1,7 +1,7 @@
 def parrot(phrase)
   puts "Squawk"
 end
-
+parrot("Pretty bird!")
 
 
 
